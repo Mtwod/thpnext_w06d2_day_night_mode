@@ -1,3 +1,5 @@
+@import 'variables';
+
 .Header {
   display: flex;
   justify-content: space-around;
@@ -11,5 +13,6 @@
     width: 40px;
     height: 40px;
     object-fit: contain;
+    background-color: $light-bg;
   }
 }

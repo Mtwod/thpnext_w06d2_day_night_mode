@@ -1,11 +1,8 @@
-.light {
-  $background-color: #FFFFFF;
-  $color-text: #000000;
-  $color-primary: #cc0000;
-}
+@import './reset';
+@import './variables';
 
-.dark {
-  $background-color: #270f35;
-  $color-text: #FFFFFF;
-  $color-primary: #cc0000;
+.App {
+  height: 100vh;
+  background-color: var(--background-color);
+  color: var(--color-text);
 }
