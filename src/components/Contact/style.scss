@@ -1,0 +1,19 @@
+.Contact {
+
+  &__form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    &__subject {
+      margin: 10px 0;
+      width: 300px;
+    }
+
+    &__message {
+      margin: 10px 0;
+      width: 500px;
+      height: 200px;
+    }
+  }
+}
