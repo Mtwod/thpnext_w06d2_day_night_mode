@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/day-night-app/static/css/main.5552beec.chunk.css",
-    "main.js": "/day-night-app/static/js/main.eff3eb1c.chunk.js",
-    "main.js.map": "/day-night-app/static/js/main.eff3eb1c.chunk.js.map",
-    "runtime-main.js": "/day-night-app/static/js/runtime-main.267bff26.js",
-    "runtime-main.js.map": "/day-night-app/static/js/runtime-main.267bff26.js.map",
-    "static/js/2.267af3ef.chunk.js": "/day-night-app/static/js/2.267af3ef.chunk.js",
-    "static/js/2.267af3ef.chunk.js.map": "/day-night-app/static/js/2.267af3ef.chunk.js.map",
-    "index.html": "/day-night-app/index.html",
-    "static/css/main.5552beec.chunk.css.map": "/day-night-app/static/css/main.5552beec.chunk.css.map",
-    "static/js/2.267af3ef.chunk.js.LICENSE.txt": "/day-night-app/static/js/2.267af3ef.chunk.js.LICENSE.txt",
-    "static/media/github-square-brands.5eea8d09.svg": "/day-night-app/static/media/github-square-brands.5eea8d09.svg",
-    "static/media/moon-logo.de43f104.png": "/day-night-app/static/media/moon-logo.de43f104.png"
+    "main.css": "/thpnext_w06d2_day_night_mode/static/css/main.5552beec.chunk.css",
+    "main.js": "/thpnext_w06d2_day_night_mode/static/js/main.eff3eb1c.chunk.js",
+    "main.js.map": "/thpnext_w06d2_day_night_mode/static/js/main.eff3eb1c.chunk.js.map",
+    "runtime-main.js": "/thpnext_w06d2_day_night_mode/static/js/runtime-main.78d3ed72.js",
+    "runtime-main.js.map": "/thpnext_w06d2_day_night_mode/static/js/runtime-main.78d3ed72.js.map",
+    "static/js/2.267af3ef.chunk.js": "/thpnext_w06d2_day_night_mode/static/js/2.267af3ef.chunk.js",
+    "static/js/2.267af3ef.chunk.js.map": "/thpnext_w06d2_day_night_mode/static/js/2.267af3ef.chunk.js.map",
+    "index.html": "/thpnext_w06d2_day_night_mode/index.html",
+    "static/css/main.5552beec.chunk.css.map": "/thpnext_w06d2_day_night_mode/static/css/main.5552beec.chunk.css.map",
+    "static/js/2.267af3ef.chunk.js.LICENSE.txt": "/thpnext_w06d2_day_night_mode/static/js/2.267af3ef.chunk.js.LICENSE.txt",
+    "static/media/github-square-brands.5eea8d09.svg": "/thpnext_w06d2_day_night_mode/static/media/github-square-brands.5eea8d09.svg",
+    "static/media/moon-logo.de43f104.png": "/thpnext_w06d2_day_night_mode/static/media/moon-logo.de43f104.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.267bff26.js",
+    "static/js/runtime-main.78d3ed72.js",
     "static/js/2.267af3ef.chunk.js",
     "static/css/main.5552beec.chunk.css",
     "static/js/main.eff3eb1c.chunk.js"
