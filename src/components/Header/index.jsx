@@ -7,7 +7,7 @@ const Header = () => {
   const title = 'Portfolio de Maxime WONG';
   return (
     <div className="Header">
-      <h1 className="Header__title">{title}</h1>
+      <p className="Header__title">{title}</p>
       <a href="https://github.com/Mtwod" className="Header__link">
         <img
           className="Header__image"

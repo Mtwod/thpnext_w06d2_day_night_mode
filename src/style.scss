@@ -5,4 +5,16 @@
   height: 100vh;
   background-color: var(--background-color);
   color: var(--color-text);
+  transition: 0.3s;
+  padding: 20px;
+
+  &__title {
+    margin: 20px;
+  }
+}
+
+a {
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--color-primary);
 }
