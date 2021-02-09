@@ -1,3 +1,5 @@
+import './style.scss';
+
 const Works = () => {
   const intro = 'Vous pourrez trouver ci-dessous la liste de mes projets. J\'en ai réalisé certains lors de ma formation chez The Hacking Project, et d\'autres sont des projets personnels.';
 
